@@ -4,3 +4,7 @@ In order to run the app please install the following packages:
       1. pip install pandas
       2. pip install streamlit
       3. pip install matplotlib
+
+General Overview of Finance App
+
+<img source ="finance_app_images/data" width = 200>
