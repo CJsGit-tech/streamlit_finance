@@ -19,7 +19,7 @@ Install the dependencies
 $ pip install pandas streamlit matplotlib
 ```
 
-Run the application
+Run the application on `http://localhost:8501/`
 
 ```sh
 $ streamlit run finance.py
