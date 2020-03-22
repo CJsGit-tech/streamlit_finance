@@ -10,7 +10,6 @@ Clone the repository
 
 ```sh
 $ git clone https://github.com/CJtheSloth/streamlit_finance
-$ cd streamlit_finance
 ```
 
 Install the dependencies
